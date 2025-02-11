@@ -1,6 +1,5 @@
     (function() {
       const responses = {
-          "Chatgpt":"ChatGPT es una inteligencia artificial diseñada para conversar, responder preguntas y ayudar con diversas tareas.",
         "claude":"Claude es un chatbot de inteligencia artificial desarrollado por Anthropic, diseñado para conversaciones seguras y útiles.",
         "word":"Word es un procesador de textos de Microsoft utilizado para crear, editar y dar formato a documentos.",
         "powerpoint":"PowerPoint es un software de Microsoft para crear presentaciones con diapositivas, imágenes y animaciones.",
