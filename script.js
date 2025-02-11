@@ -29,6 +29,7 @@
         "Tiempo": "Mi dueño demoro 6 horas tarbajando en la V1 en la V2 15 horas en promedio de trabajo",
         "fhh": "F | Familia H | Hernández H | Hernández Eso significa gracias por preguntar",
         "css": "CSS (Cascading Style Sheets) es el lenguaje utilizado para dar estilo y diseño a páginas web.",
+        "Chatgpt": "ChatGPT es una inteligencia artificial diseñada para conversar, responder preguntas y ayudar con diversas tareas.",
   "javascript": "JavaScript es un lenguaje de programación que permite crear contenido interactivo en páginas web.",
   "python": "Python es un lenguaje de programación conocido por su simplicidad y versatilidad.",
   "java": "Java es un lenguaje de programación orientado a objetos muy utilizado en desarrollo empresarial.",
