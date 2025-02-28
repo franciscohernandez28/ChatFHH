@@ -17,7 +17,7 @@
     }
 p {
     font-size:9px;
-Top:10;
+Top:-100;
 }
 #chatbox {
       max-height: 300px;
